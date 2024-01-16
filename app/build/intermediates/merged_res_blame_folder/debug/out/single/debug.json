@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_fragment_third.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\raw_jujutsu.mp4.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\raw\\jujutsu.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_chungkingexpress.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\chungkingexpress.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_hello.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\hello.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_imgscroll.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\imgscroll.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_logodepan.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\logodepan.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_bokunohero.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\bokunohero.jpg"
+    },
+    {
+        "merged": "com.helloworld.app-merged_res-31:/layout_activity_splashscreen.xml.flat",
+        "source": "com.helloworld.app-main-33:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_bread.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\bread.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_imgpesan.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\imgpesan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_actvity_alarm.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\actvity_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\raw_pvthensei.mp4.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\raw\\pvthensei.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_activity_fragment.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_movie.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\movie.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_superbad.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\superbad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_scrollice.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\scrollice.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_man.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_maps.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\maps.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_leontheprofessional.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\leontheprofessional.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_imglogo.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\imglogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\raw_pvshangri.mp4.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\raw\\pvshangri.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_classroom.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\classroom.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_theniceguys.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\theniceguys.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_count.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\count.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_twoactivity.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\twoactivity.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_shangri.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\shangri.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_imglogodepan.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\imglogodepan.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\raw_cuplikan.mp4.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\raw\\cuplikan.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\raw_pvbokunohero.mp4.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\raw\\pvbokunohero.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_imgmaps.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\imgmaps.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_activity_toast.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\activity_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_johnwickch4.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\johnwickch4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_activity_scrollice.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\activity_scrollice.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_jujutsu.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\jujutsu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_scottvsworld.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\scottvsworld.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_onepiece.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\onepiece.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\raw_pvjujutsu.mp4.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\raw\\pvjujutsu.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_video_view.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\video_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\raw_pvclassroom.mp4.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\raw\\pvclassroom.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_imghello.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\imghello.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_actrivity_one.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\actrivity_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_activity_two.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\activity_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_thensei_sitara.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\thensei_sitara.jpg"
+    },
+    {
+        "merged": "com.helloworld.app-merged_res-31:/layout_activity_homepage.xml.flat",
+        "source": "com.helloworld.app-main-33:/layout/activity_homepage.xml"
+    },
+    {
+        "merged": "com.helloworld.app-merged_res-31:/drawable_imglogodepan.png.flat",
+        "source": "com.helloworld.app-main-33:/drawable/imglogodepan.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_img123.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\img123.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_imgjam.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\imgjam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\drawable_alarm.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\drawable\\alarm.png"
+    },
+    {
+        "merged": "com.helloworld.app-merged_res-31:/drawable_imgmovie.jpg.flat",
+        "source": "com.helloworld.app-main-33:/drawable/imgmovie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\raw_pvonepiece.mp4.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\raw\\pvonepiece.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.helloworld.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]
